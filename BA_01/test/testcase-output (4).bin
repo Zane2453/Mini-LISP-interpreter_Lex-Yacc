@@ -1,0 +1,25 @@
+Welcome use our calculator!
+> Error: Unknown token 1.2
+> Error: Unknown token a
+> Error: Unknown token 0a
+> Error: Unknown token 0b
+> > Error: Unknown token %
+> 7
+> Error: Unknown token hello
+> Error: Unknown token a
+> Error: Unknown token a
+> Error: Unknown token a
+> Error: Unknown token +0a
+> Error: Unknown token 0a
+> > 123
+> 123
+> 123
+> -123
+> -123
+> Error: Illegal formula!
+> Error: Unknown token 0.
+> Error: Unknown token .3
+> Error: Unknown token .3
+> Error: Unknown token .3
+> 0
+> ByeBye~
