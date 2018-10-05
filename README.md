@@ -1,5 +1,4 @@
-# 106_Compiler
-## Mini-LISP interpreter
+# Mini-LISP interpreter
 實作項目
 - Syntax Validation  
 - Print
