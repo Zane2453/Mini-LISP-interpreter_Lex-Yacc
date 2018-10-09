@@ -1,5 +1,5 @@
 # Mini-LISP interpreter
-實作項目
+實作項目:
 - Syntax Validation  
 - Print
 - Numerical Operations
@@ -8,3 +8,12 @@
 - Variable Definition
 - Function
 - Named Function
+
+使用方式:
+```
+win_bison -d -o y.tab.c final.y
+g++ -c -g -I.. y.tab.c
+win_flex -o lex.yy.c final.l
+g++ -c -g -I.. lex.yy.c
+g++ -o final.exe y.tab.o lex.yy.o
+```
