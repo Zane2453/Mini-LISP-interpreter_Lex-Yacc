@@ -28,5 +28,7 @@ final.exe < Input_data.lsp
 (print-num (bar (bar-z)))
 
 ```
-輸出:
+執行結果:
+![start](https://i.imgur.com/WgSBoXp.png)
+
 
